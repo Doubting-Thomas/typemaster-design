@@ -1,0 +1,22 @@
+:root {
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+
+body {
+  font-family: cursive;
+  font-size: 1.6rem;
+  line-height: 1.6;
+
+  max-width: 30rem;
+  margin: 0 auto;
+}
