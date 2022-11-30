@@ -29,4 +29,5 @@
 
 .hero__cta--text {
   text-transform: uppercase;
+  font-weight: 600;
 }
