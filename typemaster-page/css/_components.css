@@ -22,3 +22,8 @@
   background-color: var(--off-blue);
   color: var(--dr-blue);
 }
+
+.btn--hero {
+  background-color: var(--orange);
+  color: var(--white);
+}

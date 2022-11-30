@@ -6,3 +6,27 @@
   align-items: center;
   /* background-color: orangered; */
 }
+
+.heading {
+  text-transform: uppercase;
+  font-weight: 900;
+  color: var(--dr-blue);
+}
+
+.description {
+  color: var(--lg-grey);
+}
+
+.hero__heading--main {
+  font-size: 4rem;
+}
+
+.hero__cta {
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+}
+
+.hero__cta--text {
+  text-transform: uppercase;
+}
