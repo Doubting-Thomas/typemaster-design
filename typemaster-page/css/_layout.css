@@ -68,3 +68,14 @@
   max-width: 35%;
   border-radius: 0 2rem 2rem 0;
 }
+
+.features {
+  padding: 2rem;
+}
+
+.features__item {
+  flex-direction: column;
+  align-items: center;
+
+  text-align: center;
+}
