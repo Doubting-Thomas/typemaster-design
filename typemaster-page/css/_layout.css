@@ -19,7 +19,6 @@
 
 .hero {
   padding: 2rem;
-  /* background-color: orangered; */
 }
 
 /* .hero__image-box {
@@ -82,6 +81,9 @@
 
 .footer {
   padding: 2rem;
-
   text-align: center;
+}
+
+.footer__bold {
+  font-weight: 700;
 }
